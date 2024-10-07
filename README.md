@@ -6,7 +6,9 @@ This repository contains GIF animations showing the molecular dynamics simulatio
 1.Triametren
 2.Cabozantinib
 3.Crizotinib
+
 **Simulation Details:-**
+
 Each simulation was run for a total of 10 nanoseconds (ns)
 The GIFs visualize the binding modes and conformational changes of the inhibitors within the active sites of c-Met and VEGFR2
 Key protein-ligand interactions and structural rearrangements are highlighted
