@@ -1,4 +1,9 @@
-# Molecular Dynamics Simulations of Kinase Inhibitors
+#  Identification and screening of small molecules as dual inhibitors of VEGFR-2 and c-Met receptors 
+### Stuart Lutimba1, Baraya Saleem 1, Eiman Aleem 1, Mohammed A. Mansour1,2 
+1Cancer Biology and Therapy Lab, Division of Human Sciences, School of Applied Sciences, London South Bank University, London, UK. 
+2Biochemistry Division, Department of Chemistry, Faculty of Science, Tanta University, Tanta 31527, Egypt. 
+
+## Molecular Dynamics Simulations of Kinase Inhibitors
 
 This repository contains GIF animations showing the molecular dynamics simulations of three kinase inhibitors interacting with c-Met and VEGFR2 proteins:
 
